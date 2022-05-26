@@ -8,7 +8,7 @@ You can easily add this site to your homepage for quick and easy access. A mobil
 
 
 ## Usage
-You can sell your books, we will help you find buyers when you create and account with us. More details on usage will be posted here from time to time, so please keep checking back.
+You can read books here for free, we  have provided kindle and pdf versions thay you can download on your devices. You can sell your books, we will help you find buyers when you create an account with us. More details on usage will be posted here from time to time, so please keep checking back.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
